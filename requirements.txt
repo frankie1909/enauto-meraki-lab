@@ -1,0 +1,4 @@
+requests
+meraki
+tenacity
+python-dotenv
